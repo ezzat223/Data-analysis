@@ -1,4 +1,5 @@
 `Hint`: Main data file isn't here as it's too large around 3 Giga, if u want it you will find it's link in the notebook <br>
+### Link to the drive records: https://drive.google.com/drive/folders/1XHakh2c03epX2u9IOGwP07eyJU29nSFU 
 ### Maps
 ![1](https://github.com/ezzat223/Data-analysis/assets/81256315/8bf4d765-708d-4d67-9a0a-deb5e990115f)
 ### Spatial<br>
